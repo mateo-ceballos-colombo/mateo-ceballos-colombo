@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mateo-ceballos-colombo/mateo-ceballos-colombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: mceballoscolombo@gmail.com
 
-Here are some ideas to get you started:
+-  Key knowledge:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Operating Systems: Windows, Linux (Ubuntu, Debian)
+• Databases: SQL Server, PostgreSQL, SQLite
+• Programming Languages / Frameworks: Python, C#, Java (Spring), Javascript (React), Matlab, Haskell, Prolog, Smalltalk, GoLang, C++
+• Web Development: REST/JSON APIs, Postman
+• DevOps: Docker, CI/CD pipelines (GitHub Actions)
+• Version Control: Git, GitHub, GitLab
+• Microsoft: Excel, Word, Power Point, Power BI, Power Automate, SharePoint, Teams
+• Modeling Tools: BPMN, UML, DER
+• Network: OSI, TCP/IP, Cisco Packet Tracer, Wireshark
+• Design: Principles and Patterns
